@@ -7,7 +7,7 @@
  *
  * Description: Header file for the Atmega PWM driver
  *
- * Author: Yassmin Gamal
+ * Author: Mahmoud Khaled
  *
 *******************************************************************************/
 
